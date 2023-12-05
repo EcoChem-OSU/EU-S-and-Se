@@ -13,6 +13,7 @@ Input variable of the mode are: Clay content, soil PH, soil organic carbon (SOC)
                                 average daily precipitation (Precip), average daily evapotranspiration (ET), 
                                 aridity index (AI), average chemical index of alteration (CIA), 
                                 and total S or Se atmospheric deposition.
+                                
 Implementation details
 ----------------------
 Machine leraning tool programmed in Python using functions developed by scikit-learn version 1.1.2,43.
