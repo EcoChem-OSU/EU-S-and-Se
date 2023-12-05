@@ -1,5 +1,5 @@
 # EU-S-and-Se
-Script associated with paper predicting EU S and Se soil concentrations
+Python script for predicting EU S and Se soil concentrations
 -----------------------------------------------------------------------------------
 Description
 -----------
