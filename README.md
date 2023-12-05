@@ -1,10 +1,18 @@
-# EU-S-and-Se
-Python script for predicting EU S and Se soil concentrations
+# Python script for predicting EU S and Se soil concentrations
 -----------------------------------------------------------------------------------
 Description
 -----------
-
-
+Built four machine-learning (ML) techniques prediction of sulfur and Selenium soil concentration. 
+ML techniques includes: Multi-layer Perceptron (MLP) Regressor, 
+                        Support Vector Regression using the linear support vector regression (Lin-SVR) 
+                        Support Vector Regression using radial basis function (RBF-SVR) kernels
+                        Random Forest Regressor (RFR).
+                        --> after critical evaluation, we retain two ML techniques, linear support vector regression (Lin-SVR)
+                            models for S and Se and the multilayer perceptron model (MLP) for Se.
+Input variable of the mode are: Clay content, soil PH, soil organic carbon (SOC) content, 
+                                average daily precipitation (Precip), average daily evapotranspiration (ET), 
+                                aridity index (AI), average chemical index of alteration (CIA), 
+                                and total S or Se atmospheric deposition.
 Implementation details
 ----------------------
 Machine leraning tool programmed in Python using functions developed by scikit-learn version 1.1.2,43.
@@ -13,6 +21,10 @@ and radial basis function (RBF-SVR) kernels, and Random Forest Regressor (RFR).
 
 Getting started
 ----------------
+NEED TO BE EDITED
+1. Copy folder namexxx
+2. Run script....
 
 Citing
 -------
+AT THE END THE PAPER WITH THE DOI
