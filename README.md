@@ -10,7 +10,7 @@ ML techniques includes:
 - Random Forest Regressor (RFR).
                         
 > [!NOTE]
-> **After critical evaluation, we retain two ML techniques, linear support vector regression (Lin-SVR) models for S and Se and the multilayer perceptron model (MLP) for Se.**
+> **After critical evaluation, we retained two ML techniques, linear support vector regression (Lin-SVR) models for S and Se and the multilayer perceptron model (MLP) for Se.**
 
 Input variable of the mode are: 
 - Clay content, soil PH
