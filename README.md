@@ -16,7 +16,7 @@ Input variable of the mode are: Clay content, soil PH, soil organic carbon (SOC)
                                 
 Implementation details
 ----------------------
-Machine leraning tool programmed in Python using functions developed by scikit-learn version 1.1.2,43.
+Machine learning tool programmed in Python using functions developed by scikit-learn version 1.1.2,43.
 Included Multi-layer Perceptron (MLP) Regressor, Support Vector Regression using the linear support vector regression (Lin-SVR) 
 and radial basis function (RBF-SVR) kernels, and Random Forest Regressor (RFR).
 
