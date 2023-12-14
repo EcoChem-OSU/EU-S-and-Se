@@ -3,16 +3,23 @@
 Description
 -----------
 Built four machine-learning (ML) techniques prediction of sulfur and Selenium soil concentration. 
-ML techniques includes: Multi-layer Perceptron (MLP) Regressor, 
-                        Support Vector Regression using the linear support vector regression (Lin-SVR) 
-                        Support Vector Regression using radial basis function (RBF-SVR) kernels
-                        Random Forest Regressor (RFR).
-                        --> after critical evaluation, we retain two ML techniques, linear support vector regression (Lin-SVR)
-                            models for S and Se and the multilayer perceptron model (MLP) for Se.
-Input variable of the mode are: Clay content, soil PH, soil organic carbon (SOC) content, 
-                                average daily precipitation (Precip), average daily evapotranspiration (ET), 
-                                aridity index (AI), average chemical index of alteration (CIA), 
-                                and total S or Se atmospheric deposition.
+ML techniques includes: 
+- Multi-layer Perceptron (MLP) Regressor, 
+- Support Vector Regression using the linear support vector regression (Lin-SVR) 
+- Support Vector Regression using radial basis function (RBF-SVR) kernels
+- Random Forest Regressor (RFR).
+                        
+> [!NOTE]
+> **After critical evaluation, we retain two ML techniques, linear support vector regression (Lin-SVR) models for S and Se and the multilayer perceptron model (MLP) for Se.**
+
+Input variable of the mode are: 
+- Clay content, soil PH
+- Soil organic carbon (SOC) content
+- Average daily precipitation (Precip)
+- Average daily evapotranspiration (ET)
+- Aridity index (AI)
+- Average chemical index of alteration (CIA)
+- Total S or Se atmospheric deposition.
                                 
 Implementation details
 ----------------------
