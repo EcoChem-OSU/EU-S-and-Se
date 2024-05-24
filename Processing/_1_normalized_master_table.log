@@ -1,0 +1,82 @@
+Execution date: 2024-05-06
+
+Transforming predictors with no future component.
+
+['Avg_S', 'Avg_SE', 'Avg_CIA', 'Avg_CEC', 'Avg_PH_CAC', 'BLDFIE_M_s', 'CLYPPT_M_s', 'SLTPPT_M_s', 'SNDPPT_M_s']
+Avg_S
+Original skew: 14.01
+SQRT skew: 7.11
+Log skew: 1.65
+Avg_SE
+Original skew: 3.14
+SQRT skew: 1.53
+Log skew: 0.37
+Avg_CIA
+Original skew: 0.29
+Avg_CEC
+Original skew: 0.45
+Avg_PH_CAC
+Original skew: 0.23
+BLDFIE_M_s
+Original skew: 0.42
+CLYPPT_M_s
+Original skew: 0.05
+SLTPPT_M_s
+Original skew: 0.29
+SNDPPT_M_s
+Original skew: 0.3
+Avg_S: Neither sqrt nor log transform was sufficient.
+Avg_SE: Log transformation needed: final skew = 0.4
+Avg_CIA: No transformation needed: final skew = 0.3
+Avg_CEC: No transformation needed: final skew = 0.5
+Avg_PH_CAC: No transformation needed: final skew = 0.2
+BLDFIE_M_s: No transformation needed: final skew = 0.4
+CLYPPT_M_s: No transformation needed: final skew = 0.0
+SLTPPT_M_s: No transformation needed: final skew = 0.3
+SNDPPT_M_s: No transformation needed: final skew = 0.3
+
+Transforming Avg_S manually:
+Skew no transformation: 14.01
+Skew sqrt transform: 7.11
+Skew log transform: 1.65
+Log transformation is best
+
+Transforming data with a future component
+
+
+TOC
+Skew no transformation: 3.76
+Skew sqrt transform: 2.36
+Skew log transform: 1.15
+Log transformation was best.
+
+AI
+Skew no transformation: 2.39
+Skew sqrt transform: 1.08
+Skew log transform: 0.23
+Log transformation was best.
+
+ET
+Skew no transformation: 0.63
+Skew sqrt transform: 1.04
+Skew log transform: 1.54
+No transformation was best.
+
+Precip.
+Skew no transformation: 2.75
+Skew sqrt transform: 1.44
+Skew log transform: 0.56
+Log transformation was best.
+
+S Dep.
+Skew no transformation: 4.77
+Skew sqrt transform: 1.08
+Skew log transform: 0.37
+Log transformation was best.
+
+Se Dep.
+Skew no transformation: 7.24
+Skew sqrt transform: 1.99
+Skew log transform: 0.02
+Log transformation was best.
+Done. Please check log file.
