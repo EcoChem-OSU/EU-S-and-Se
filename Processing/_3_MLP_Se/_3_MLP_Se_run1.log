@@ -1,0 +1,15 @@
+Running machine learning - MLP Selenium
+Getting predictor datasets
+Tuning the model to get the best combination of hyperparams.
+Check output directory for tuning results table.
+
+Best hyper parameters:
+{'RMSE': 0.10679681328772288, 'hidden_layer_sizes': 11.0, 'alpha': 1.9421746814890284, 'power_t': 0.4242556430717777, 'beta_1': 4.815957894042745e-06, 'beta_2': 1.1456687242540355e-05, 'epsilon': 1.3110273782441139e-06}
+Check the output directory for tuning results charts.
+
+Evaluating model performance.
+Check the output directory for model performance results.
+
+Generating model predictions.
+Check the output directory for model prediction output files
+Done!
