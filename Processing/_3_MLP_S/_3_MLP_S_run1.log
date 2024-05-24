@@ -1,0 +1,15 @@
+Running machine learning - MLP Sulfur
+Getting predictor datasets
+Tuning the model to get the best combination of hyperparams.
+Check output directory for tuning results table.
+
+Best hyper parameters:
+{'RMSE': 0.17213505994311326, 'hidden_layer_sizes': 30.0, 'alpha': 15.819734815786015, 'power_t': 0.3780746663599349, 'beta_1': 0.0001086515769171017, 'beta_2': 1.2738113214268593e-07, 'epsilon': 2.1248718019961784e-09}
+Check the output directory for tuning results charts.
+
+Evaluating model performance.
+Check the output directory for model performance results.
+
+Generating model predictions.
+Check the output directory for model prediction output files
+Done!
