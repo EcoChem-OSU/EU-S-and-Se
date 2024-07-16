@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12695649.svg)](https://doi.org/10.5281/zenodo.12695649)
+
 # Soil Trace Element Prediction Script
 
 This repository contains Python scripts that support the publication titled "Predicted Losses of Sulfur and Selenium in European Soils Using Machine Learning: A Call for Prudent Model Interrogation and Selection". 
