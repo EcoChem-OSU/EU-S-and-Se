@@ -72,5 +72,4 @@ This program is free software: you can redistribute it and/or modify it under th
 A copy of the license is available in the repository's [LICENSE](LICENSE) file.
 
 ## Citing
-
-coming soon!!!
+Jones, G. D.; Insinga, L.; Droz, B.; Feinberg, A.; Stenke, A.; Smith, J.; Smith, P.; Winkel, L. H. E. Emerging investigator series: predicted losses of sulfur and selenium in european soils using machine learning: a call for prudent model interrogation and selection. Environmental Science Processes & Impacts 2024. [DOI: 10.1039/d4em00338a](https://doi.org/10.1039/d4em00338a).
